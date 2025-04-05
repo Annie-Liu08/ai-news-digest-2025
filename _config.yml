@@ -1,0 +1,8 @@
+theme: jekyll-theme-cayman
+title: AI News Digest 2025
+description: Tracking the latest developments in artificial intelligence
+show_downloads: false
+google_analytics:
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
