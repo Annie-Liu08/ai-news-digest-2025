@@ -1,0 +1,72 @@
+/* AI News Digest Blog Styling */
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.6;
+  color: #333;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+header {
+  border-bottom: 1px solid #eee;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+}
+
+h1 {
+  color: #2c3e50;
+}
+
+h2 {
+  color: #3498db;
+  margin-top: 30px;
+}
+
+h3 {
+  color: #2c3e50;
+}
+
+a {
+  color: #3498db;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.post-date {
+  color: #7f8c8d;
+  font-style: italic;
+  margin-bottom: 20px;
+}
+
+.post-summary {
+  background-color: #f9f9f9;
+  padding: 15px;
+  border-left: 4px solid #3498db;
+  margin-bottom: 20px;
+}
+
+code {
+  background-color: #f4f4f4;
+  padding: 2px 5px;
+  border-radius: 3px;
+}
+
+blockquote {
+  border-left: 3px solid #3498db;
+  padding-left: 15px;
+  color: #555;
+  font-style: italic;
+}
+
+footer {
+  margin-top: 50px;
+  padding-top: 20px;
+  border-top: 1px solid #eee;
+  font-size: 0.9em;
+  color: #7f8c8d;
+}
